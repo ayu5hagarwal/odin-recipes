@@ -1,0 +1,80 @@
+h1{
+    text-align: center;
+    font-size: 70px;
+}
+
+h2{
+    font-size:40px ;
+}
+p{
+    font-size:25px;
+}
+ul{
+    font-size: 25px;
+}
+ol{
+    font-size: 25px;
+}
+.banana-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 250px;
+}
+
+.chicken-korma-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 250px;
+}
+
+.container{
+    text-align: center;
+}
+
+.myul{
+    display: inline-block;
+    text-align: left;
+}
+
+.biryani-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 250px;
+}
+
+.banana-bg{
+    background-image: url("./images/banana-bg.jpg");
+   
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color:white;
+  
+}
+
+.h1banana{
+    color: rgb(66, 3, 3);
+}
+
+.h2banana{
+    color: rgb(66, 3, 3);
+}
+
+.pbanana{
+    color: rgb(66, 3, 3);
+}
+
+.ulbanana{
+    color: rgb(66, 3, 3);
+}
+
+.olbanana{
+    color: rgb(66, 3, 3);
+}
